@@ -1,0 +1,38 @@
+[
+  {
+    "url": "http://localhost:12920/",
+    "isRepresentativeRun": false,
+    "htmlPath": "C:\\Project\\actions-demo\\lhci_reports\\_-2024_11_12_05_36_34-report.html",
+    "jsonPath": "C:\\Project\\actions-demo\\lhci_reports\\_-2024_11_12_05_36_34-report.json",
+    "summary": {
+      "performance": 1,
+      "accessibility": 1,
+      "best-practices": 1,
+      "seo": 1
+    }
+  },
+  {
+    "url": "http://localhost:12920/",
+    "isRepresentativeRun": false,
+    "htmlPath": "C:\\Project\\actions-demo\\lhci_reports\\_-2024_11_12_05_36_59-report.html",
+    "jsonPath": "C:\\Project\\actions-demo\\lhci_reports\\_-2024_11_12_05_36_59-report.json",
+    "summary": {
+      "performance": 1,
+      "accessibility": 1,
+      "best-practices": 1,
+      "seo": 1
+    }
+  },
+  {
+    "url": "http://localhost:12920/",
+    "isRepresentativeRun": true,
+    "htmlPath": "C:\\Project\\actions-demo\\lhci_reports\\_-2024_11_12_05_36_47-report.html",
+    "jsonPath": "C:\\Project\\actions-demo\\lhci_reports\\_-2024_11_12_05_36_47-report.json",
+    "summary": {
+      "performance": 1,
+      "accessibility": 1,
+      "best-practices": 1,
+      "seo": 1
+    }
+  }
+]
